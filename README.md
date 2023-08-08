@@ -10,4 +10,5 @@ Hi 👋, I'm Gerald Sihotang
 <a href="https://instagram.com/geshtng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geshtng" height="30" width="40" /></a>
 </p>
 
-![readmebox (1)](https://github.com/geshtng/geshtng/assets/29280690/da2a0766-917c-41e3-947e-0b9016addd98)
+![readmebox](https://github.com/geshtng/geshtng/assets/29280690/4c4cc0fe-650f-40a6-86c9-180086c5906e)
+
