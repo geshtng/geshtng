@@ -2,6 +2,8 @@
 
 Hi 👋, I'm Gerald Sihotang
 
+An engineer focused on the backend the area, passionate about coding stuff, quick learner, and adapt to a new
+environment.
 
 ### Connect with me:
 <p align="left">
