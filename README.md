@@ -2,8 +2,7 @@
 
 Hi 👋, I'm Gerald Sihotang
 
-An engineer focused on the backend the area, passionate about coding stuff, quick learner, and adapt to a new
-environment.
+Experienced backend engineer skilled in building scalable applications, streamlining deployment processes, and ensuring quality assurance. Proficient in mastering new technologies and delivering reliable solutions across development, staging, and production environments.
 
 ### Connect with me:
 <p align="left">
