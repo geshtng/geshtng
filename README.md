@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Gerald Sihotang
 
-Having successfully delivered applications across various environments, including development, staging, and production, I take pride in my ability to implement streamlined deployment processes that optimize efficiency and reliability. Notably, I spearheaded the development of a deployment framework that significantly reduced manual intervention, facilitating rapid and consistent code deployment while ensuring rigorous testing and quality assurance standards were upheld.
+Experienced backend engineer skilled in building scalable applications, streamlining deployment processes, and ensuring quality assurance. Proficient in mastering new technologies and delivering reliable solutions across development, staging, and production environments.
 
 ### Connect with me:
 <p align="left">
