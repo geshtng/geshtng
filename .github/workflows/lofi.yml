@@ -12,7 +12,7 @@ jobs:
       - uses: geshtng/git-lofi@main
         with:
           time: auto
-          timezone: Asia/Jakarta
+          location: Jakarta
           output-dir: lofi
       - env:
           GH_TOKEN: ${{ github.token }}
