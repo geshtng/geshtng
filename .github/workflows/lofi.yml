@@ -1,7 +1,7 @@
 name: lofi
 on:
   schedule:
-    - cron: "5 */2 * * *"
+    - cron: "23 * * * *" # hourly, off the busy top of the hour
   workflow_dispatch:
 permissions:
   contents: write
