@@ -1,0 +1,26 @@
+name: lofi
+on:
+  schedule:
+    - cron: "5 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: geshtng/git-lofi@main
+        with:
+          time: auto
+          timezone: Asia/Jakarta
+          output-dir: lofi
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd lofi
+          git init -q -b lofi
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git add lofi.gif
+          git commit -qm "Redraw lofi city"
+          git push -fq "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" lofi
